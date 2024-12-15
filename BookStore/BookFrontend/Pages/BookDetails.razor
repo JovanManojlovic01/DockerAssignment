@@ -1,0 +1,78 @@
+﻿@page "/books"
+@using BookFrontend.Services
+@using BookFrontend.Models
+@using Microsoft.AspNetCore.Components;
+@inject NavigationManager GoTo
+@inject BookService BookService
+
+<div class="container mt-5">
+    <h3 class="text-primary">Manage Books</h3>
+
+    <button class="btn btn-success mb-3" @onclick="NavigateToAddPage">Add Book</button>
+
+    @if (books == null)
+    {
+        <div class="d-flex justify-content-center align-items-center mt-5">
+            <div class="spinner-border text-primary" role="status">
+                <span class="visually-hidden">Loading...</span>
+            </div>
+        </div>
+    }
+    else if (books.Count == 0)
+    {
+        <p class="text-danger">No books available.</p>
+    }
+    else
+    {
+        <table class="table table-striped">
+            <thead>
+                <tr>
+                    <th>Title</th>
+                    <th>Author</th>
+                    <th>Year of Release</th>
+                    <th>Description</th>
+                    <th>Actions</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var book in books)
+                {
+                    <tr>
+                        <td>@book.Title</td>
+                        <td>@book.Author</td>
+                        <td>@book.YearOfRelease</td>
+                        <td>@book.Description</td>
+                        <td>
+                            <button class="btn btn-primary btn-sm" @onclick="() => NavigateToEditPage(book.Id)">Edit</button>
+                            <button class="btn btn-danger btn-sm" @onclick="() => NavigateToDeletePage(book.Id)">Delete</button>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    }
+</div>
+
+@code {
+    private List<Book> books;
+
+    protected override async Task OnInitializedAsync()
+    {
+        books = await BookService.GetBooksAsync();
+    }
+
+    private void NavigateToAddPage()
+    {
+        GoTo.NavigateTo("/books/add");
+    }
+
+    private void NavigateToEditPage(int bookId)
+    {
+        GoTo.NavigateTo($"/books/edit/{bookId}");
+    }
+
+    private void NavigateToDeletePage(int bookId)
+    {
+        GoTo.NavigateTo($"/books/delete/{bookId}");
+    }
+}

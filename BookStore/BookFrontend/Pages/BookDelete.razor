@@ -1,0 +1,56 @@
+﻿@page "/books/delete/{id:int}"
+@using BookFrontend.Services
+@using BookFrontend.Models
+@inject BookService BookService
+@inject NavigationManager GoTo
+
+<div class="container mt-5">
+    <h3 class="text-danger">Delete Book</h3>
+
+    @if (book == null)
+    {
+        <div class="d-flex justify-content-center align-items-center mt-5">
+            <div class="spinner-border text-danger" role="status">
+                <span class="visually-hidden">Loading...</span>
+            </div>
+        </div>
+    }
+    else
+    {
+        <div class="alert alert-warning">
+            <p>Are you sure you want to delete the following book?</p>
+            <ul>
+                <li><strong>Title:</strong> @book.Title</li>
+                <li><strong>Author:</strong> @book.Author</li>
+                <li><strong>Year of Release:</strong> @book.YearOfRelease</li>
+                <li><strong>Description:</strong> @book.Description</li>
+            </ul>
+        </div>
+
+        <button class="btn btn-danger" @onclick="HandleDelete">Delete</button>
+        <button class="btn btn-secondary ms-2" @onclick="Cancel">Cancel</button>
+    }
+</div>
+
+@code {
+    [Parameter]
+    public int id { get; set; }
+
+    private Book book;
+
+    protected override async Task OnInitializedAsync()
+    {
+        book = await BookService.GetBookByIdAsync(id);
+    }
+
+    private async Task HandleDelete()
+    {
+        await BookService.DeleteBookAsync(id);
+        GoTo.NavigateTo("/books");
+    }
+
+    private void Cancel()
+    {
+        GoTo.NavigateTo("/books");
+    }
+}

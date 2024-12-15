@@ -1,0 +1,376 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jovan\\OneDrive\\Desktop\\BookStore\\BookStore\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{411ECC8E-DE87-4E9E-B776-65A2E1346360}|BookFrontend\\BookFrontend.csproj|c:\\users\\jovan\\onedrive\\desktop\\bookstore\\bookstore\\bookfrontend\\pages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{411ECC8E-DE87-4E9E-B776-65A2E1346360}|BookFrontend\\BookFrontend.csproj|solutionrelative:bookfrontend\\pages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{411ECC8E-DE87-4E9E-B776-65A2E1346360}|BookFrontend\\BookFrontend.csproj|c:\\users\\jovan\\onedrive\\desktop\\bookstore\\bookstore\\bookfrontend\\pages\\bookdetails.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{411ECC8E-DE87-4E9E-B776-65A2E1346360}|BookFrontend\\BookFrontend.csproj|solutionrelative:bookfrontend\\pages\\bookdetails.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{411ECC8E-DE87-4E9E-B776-65A2E1346360}|BookFrontend\\BookFrontend.csproj|c:\\users\\jovan\\onedrive\\desktop\\bookstore\\bookstore\\bookfrontend\\pages\\bookdelete.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{411ECC8E-DE87-4E9E-B776-65A2E1346360}|BookFrontend\\BookFrontend.csproj|solutionrelative:bookfrontend\\pages\\bookdelete.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{411ECC8E-DE87-4E9E-B776-65A2E1346360}|BookFrontend\\BookFrontend.csproj|c:\\users\\jovan\\onedrive\\desktop\\bookstore\\bookstore\\bookfrontend\\pages\\bookedit.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{411ECC8E-DE87-4E9E-B776-65A2E1346360}|BookFrontend\\BookFrontend.csproj|solutionrelative:bookfrontend\\pages\\bookedit.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4714F24A-FA37-4B90-9663-8E4BE5584093}|BookApi\\BookApi.csproj|c:\\users\\jovan\\onedrive\\desktop\\bookstore\\bookstore\\bookapi\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4714F24A-FA37-4B90-9663-8E4BE5584093}|BookApi\\BookApi.csproj|solutionrelative:bookapi\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{411ECC8E-DE87-4E9E-B776-65A2E1346360}|BookFrontend\\BookFrontend.csproj|c:\\users\\jovan\\onedrive\\desktop\\bookstore\\bookstore\\bookfrontend\\services\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{411ECC8E-DE87-4E9E-B776-65A2E1346360}|BookFrontend\\BookFrontend.csproj|solutionrelative:bookfrontend\\services\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{411ECC8E-DE87-4E9E-B776-65A2E1346360}|BookFrontend\\BookFrontend.csproj|c:\\users\\jovan\\onedrive\\desktop\\bookstore\\bookstore\\bookfrontend\\pages\\bookadd.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{411ECC8E-DE87-4E9E-B776-65A2E1346360}|BookFrontend\\BookFrontend.csproj|solutionrelative:bookfrontend\\pages\\bookadd.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{411ECC8E-DE87-4E9E-B776-65A2E1346360}|BookFrontend\\BookFrontend.csproj|c:\\users\\jovan\\onedrive\\desktop\\bookstore\\bookstore\\bookfrontend\\shared\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{411ECC8E-DE87-4E9E-B776-65A2E1346360}|BookFrontend\\BookFrontend.csproj|solutionrelative:bookfrontend\\shared\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{411ECC8E-DE87-4E9E-B776-65A2E1346360}|BookFrontend\\BookFrontend.csproj|c:\\users\\jovan\\onedrive\\desktop\\bookstore\\bookstore\\bookfrontend\\shared\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{411ECC8E-DE87-4E9E-B776-65A2E1346360}|BookFrontend\\BookFrontend.csproj|solutionrelative:bookfrontend\\shared\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{411ECC8E-DE87-4E9E-B776-65A2E1346360}|BookFrontend\\BookFrontend.csproj|c:\\users\\jovan\\onedrive\\desktop\\bookstore\\bookstore\\bookfrontend\\bookfrontend.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{411ECC8E-DE87-4E9E-B776-65A2E1346360}|BookFrontend\\BookFrontend.csproj|solutionrelative:bookfrontend\\bookfrontend.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{411ECC8E-DE87-4E9E-B776-65A2E1346360}|BookFrontend\\BookFrontend.csproj|c:\\users\\jovan\\onedrive\\desktop\\bookstore\\bookstore\\bookfrontend\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{411ECC8E-DE87-4E9E-B776-65A2E1346360}|BookFrontend\\BookFrontend.csproj|solutionrelative:bookfrontend\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{411ECC8E-DE87-4E9E-B776-65A2E1346360}|BookFrontend\\BookFrontend.csproj|c:\\users\\jovan\\onedrive\\desktop\\bookstore\\bookstore\\bookfrontend\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{411ECC8E-DE87-4E9E-B776-65A2E1346360}|BookFrontend\\BookFrontend.csproj|solutionrelative:bookfrontend\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4714F24A-FA37-4B90-9663-8E4BE5584093}|BookApi\\BookApi.csproj|c:\\users\\jovan\\onedrive\\desktop\\bookstore\\bookstore\\bookapi\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4714F24A-FA37-4B90-9663-8E4BE5584093}|BookApi\\BookApi.csproj|solutionrelative:bookapi\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{411ECC8E-DE87-4E9E-B776-65A2E1346360}|BookFrontend\\BookFrontend.csproj|c:\\users\\jovan\\onedrive\\desktop\\bookstore\\bookstore\\bookfrontend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{411ECC8E-DE87-4E9E-B776-65A2E1346360}|BookFrontend\\BookFrontend.csproj|solutionrelative:bookfrontend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4714F24A-FA37-4B90-9663-8E4BE5584093}|BookApi\\BookApi.csproj|c:\\users\\jovan\\onedrive\\desktop\\bookstore\\bookstore\\bookapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4714F24A-FA37-4B90-9663-8E4BE5584093}|BookApi\\BookApi.csproj|solutionrelative:bookapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{411ECC8E-DE87-4E9E-B776-65A2E1346360}|BookFrontend\\BookFrontend.csproj|c:\\users\\jovan\\onedrive\\desktop\\bookstore\\bookstore\\bookfrontend\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{411ECC8E-DE87-4E9E-B776-65A2E1346360}|BookFrontend\\BookFrontend.csproj|solutionrelative:bookfrontend\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4714F24A-FA37-4B90-9663-8E4BE5584093}|BookApi\\BookApi.csproj|c:\\users\\jovan\\onedrive\\desktop\\bookstore\\bookstore\\bookapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4714F24A-FA37-4B90-9663-8E4BE5584093}|BookApi\\BookApi.csproj|solutionrelative:bookapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76CD2DAC-DC3B-4D68-AB00-3501F07A959F}|Solution Items{76CD2DAC-DC3B-4D68-AB00-3501F07A959F}|C:\\Users\\jovan\\OneDrive\\Desktop\\BookStore\\BookStore\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{76CD2DAC-DC3B-4D68-AB00-3501F07A959F}|Solution Items{76CD2DAC-DC3B-4D68-AB00-3501F07A959F}|solutionrelative:docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4714F24A-FA37-4B90-9663-8E4BE5584093}|BookApi\\BookApi.csproj|c:\\users\\jovan\\onedrive\\desktop\\bookstore\\bookstore\\bookapi\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{4714F24A-FA37-4B90-9663-8E4BE5584093}|BookApi\\BookApi.csproj|solutionrelative:bookapi\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4714F24A-FA37-4B90-9663-8E4BE5584093}|BookApi\\BookApi.csproj|c:\\users\\jovan\\onedrive\\desktop\\bookstore\\bookstore\\bookapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4714F24A-FA37-4B90-9663-8E4BE5584093}|BookApi\\BookApi.csproj|solutionrelative:bookapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 300,
+          "SelectedChildIndex": 18,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BookDelete.razor",
+              "DocumentMoniker": "C:\\Users\\jovan\\OneDrive\\Desktop\\BookStore\\BookStore\\BookFrontend\\Pages\\BookDelete.razor",
+              "RelativeDocumentMoniker": "BookFrontend\\Pages\\BookDelete.razor",
+              "ToolTip": "C:\\Users\\jovan\\OneDrive\\Desktop\\BookStore\\BookStore\\BookFrontend\\Pages\\BookDelete.razor",
+              "RelativeToolTip": "BookFrontend\\Pages\\BookDelete.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-15T11:11:52.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BookEdit.razor",
+              "DocumentMoniker": "C:\\Users\\jovan\\OneDrive\\Desktop\\BookStore\\BookStore\\BookFrontend\\Pages\\BookEdit.razor",
+              "RelativeDocumentMoniker": "BookFrontend\\Pages\\BookEdit.razor",
+              "ToolTip": "C:\\Users\\jovan\\OneDrive\\Desktop\\BookStore\\BookStore\\BookFrontend\\Pages\\BookEdit.razor",
+              "RelativeToolTip": "BookFrontend\\Pages\\BookEdit.razor",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAEcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-15T11:10:15.8Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BookAdd.razor",
+              "DocumentMoniker": "C:\\Users\\jovan\\OneDrive\\Desktop\\BookStore\\BookStore\\BookFrontend\\Pages\\BookAdd.razor",
+              "RelativeDocumentMoniker": "BookFrontend\\Pages\\BookAdd.razor",
+              "ToolTip": "C:\\Users\\jovan\\OneDrive\\Desktop\\BookStore\\BookStore\\BookFrontend\\Pages\\BookAdd.razor",
+              "RelativeToolTip": "BookFrontend\\Pages\\BookAdd.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-15T11:08:36.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BookDetails.razor",
+              "DocumentMoniker": "C:\\Users\\jovan\\OneDrive\\Desktop\\BookStore\\BookStore\\BookFrontend\\Pages\\BookDetails.razor",
+              "RelativeDocumentMoniker": "BookFrontend\\Pages\\BookDetails.razor",
+              "ToolTip": "C:\\Users\\jovan\\OneDrive\\Desktop\\BookStore\\BookStore\\BookFrontend\\Pages\\BookDetails.razor",
+              "RelativeToolTip": "BookFrontend\\Pages\\BookDetails.razor",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAADEAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-15T10:53:52.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "C:\\Users\\jovan\\OneDrive\\Desktop\\BookStore\\BookStore\\BookFrontend\\Shared\\NavMenu.razor",
+              "RelativeDocumentMoniker": "BookFrontend\\Shared\\NavMenu.razor",
+              "ToolTip": "C:\\Users\\jovan\\OneDrive\\Desktop\\BookStore\\BookStore\\BookFrontend\\Shared\\NavMenu.razor",
+              "RelativeToolTip": "BookFrontend\\Shared\\NavMenu.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-15T10:48:50.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MainLayout.razor",
+              "DocumentMoniker": "C:\\Users\\jovan\\OneDrive\\Desktop\\BookStore\\BookStore\\BookFrontend\\Shared\\MainLayout.razor",
+              "RelativeDocumentMoniker": "BookFrontend\\Shared\\MainLayout.razor",
+              "ToolTip": "C:\\Users\\jovan\\OneDrive\\Desktop\\BookStore\\BookStore\\BookFrontend\\Shared\\MainLayout.razor",
+              "RelativeToolTip": "BookFrontend\\Shared\\MainLayout.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-15T10:38:49.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:678673979:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:331014032:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\jovan\\OneDrive\\Desktop\\BookStore\\BookStore\\BookFrontend\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "BookFrontend\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\jovan\\OneDrive\\Desktop\\BookStore\\BookStore\\BookFrontend\\Properties\\launchSettings.json",
+              "RelativeToolTip": "BookFrontend\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-14T22:11:14.214Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\jovan\\OneDrive\\Desktop\\BookStore\\BookStore\\BookApi\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "BookApi\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\jovan\\OneDrive\\Desktop\\BookStore\\BookStore\\BookApi\\Properties\\launchSettings.json",
+              "RelativeToolTip": "BookApi\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwBsAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-14T22:10:15.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\jovan\\OneDrive\\Desktop\\BookStore\\BookStore\\BookFrontend\\Dockerfile",
+              "RelativeDocumentMoniker": "BookFrontend\\Dockerfile",
+              "ToolTip": "C:\\Users\\jovan\\OneDrive\\Desktop\\BookStore\\BookStore\\BookFrontend\\Dockerfile",
+              "RelativeToolTip": "BookFrontend\\Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-12-14T21:39:11.108Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BookFrontend.csproj",
+              "DocumentMoniker": "C:\\Users\\jovan\\OneDrive\\Desktop\\BookStore\\BookStore\\BookFrontend\\BookFrontend.csproj",
+              "RelativeDocumentMoniker": "BookFrontend\\BookFrontend.csproj",
+              "ToolTip": "C:\\Users\\jovan\\OneDrive\\Desktop\\BookStore\\BookStore\\BookFrontend\\BookFrontend.csproj",
+              "RelativeToolTip": "BookFrontend\\BookFrontend.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-14T21:39:05.218Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\jovan\\OneDrive\\Desktop\\BookStore\\BookStore\\BookApi\\Dockerfile",
+              "RelativeDocumentMoniker": "BookApi\\Dockerfile",
+              "ToolTip": "C:\\Users\\jovan\\OneDrive\\Desktop\\BookStore\\BookStore\\BookApi\\Dockerfile",
+              "RelativeToolTip": "BookApi\\Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-12-14T21:38:32.89Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\jovan\\OneDrive\\Desktop\\BookStore\\BookStore\\BookApi\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "BookApi\\Models\\Book.cs",
+              "ToolTip": "C:\\Users\\jovan\\OneDrive\\Desktop\\BookStore\\BookStore\\BookApi\\Models\\Book.cs",
+              "RelativeToolTip": "BookApi\\Models\\Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T21:21:33.967Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jovan\\OneDrive\\Desktop\\BookStore\\BookStore\\BookApi\\Program.cs",
+              "RelativeDocumentMoniker": "BookApi\\Program.cs",
+              "ToolTip": "C:\\Users\\jovan\\OneDrive\\Desktop\\BookStore\\BookStore\\BookApi\\Program.cs",
+              "RelativeToolTip": "BookApi\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T21:11:58.366Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "docker-compose.yml",
+              "DocumentMoniker": "C:\\Users\\jovan\\OneDrive\\Desktop\\BookStore\\BookStore\\docker-compose.yml",
+              "RelativeDocumentMoniker": "docker-compose.yml",
+              "ToolTip": "C:\\Users\\jovan\\OneDrive\\Desktop\\BookStore\\BookStore\\docker-compose.yml",
+              "RelativeToolTip": "docker-compose.yml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2024-12-14T18:29:37.609Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.razor",
+              "DocumentMoniker": "C:\\Users\\jovan\\OneDrive\\Desktop\\BookStore\\BookStore\\BookFrontend\\Pages\\Index.razor",
+              "RelativeDocumentMoniker": "BookFrontend\\Pages\\Index.razor",
+              "ToolTip": "C:\\Users\\jovan\\OneDrive\\Desktop\\BookStore\\BookStore\\BookFrontend\\Pages\\Index.razor",
+              "RelativeToolTip": "BookFrontend\\Pages\\Index.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-14T18:26:16.936Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jovan\\OneDrive\\Desktop\\BookStore\\BookStore\\BookFrontend\\Program.cs",
+              "RelativeDocumentMoniker": "BookFrontend\\Program.cs",
+              "ToolTip": "C:\\Users\\jovan\\OneDrive\\Desktop\\BookStore\\BookStore\\BookFrontend\\Program.cs",
+              "RelativeToolTip": "BookFrontend\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T18:25:32.95Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BookService.cs",
+              "DocumentMoniker": "C:\\Users\\jovan\\OneDrive\\Desktop\\BookStore\\BookStore\\BookFrontend\\Services\\BookService.cs",
+              "RelativeDocumentMoniker": "BookFrontend\\Services\\BookService.cs",
+              "ToolTip": "C:\\Users\\jovan\\OneDrive\\Desktop\\BookStore\\BookStore\\BookFrontend\\Services\\BookService.cs",
+              "RelativeToolTip": "BookFrontend\\Services\\BookService.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAwwEgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T18:25:07.72Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\jovan\\OneDrive\\Desktop\\BookStore\\BookStore\\BookFrontend\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "BookFrontend\\Models\\Book.cs",
+              "ToolTip": "C:\\Users\\jovan\\OneDrive\\Desktop\\BookStore\\BookStore\\BookFrontend\\Models\\Book.cs",
+              "RelativeToolTip": "BookFrontend\\Models\\Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T18:24:44.193Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\jovan\\OneDrive\\Desktop\\BookStore\\BookStore\\BookApi\\appsettings.json",
+              "RelativeDocumentMoniker": "BookApi\\appsettings.json",
+              "ToolTip": "C:\\Users\\jovan\\OneDrive\\Desktop\\BookStore\\BookStore\\BookApi\\appsettings.json",
+              "RelativeToolTip": "BookApi\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAACNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-14T18:15:02.787Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BooksController.cs",
+              "DocumentMoniker": "C:\\Users\\jovan\\OneDrive\\Desktop\\BookStore\\BookStore\\BookApi\\Controllers\\BooksController.cs",
+              "RelativeDocumentMoniker": "BookApi\\Controllers\\BooksController.cs",
+              "ToolTip": "C:\\Users\\jovan\\OneDrive\\Desktop\\BookStore\\BookStore\\BookApi\\Controllers\\BooksController.cs",
+              "RelativeToolTip": "BookApi\\Controllers\\BooksController.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAA0wGIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T18:11:20.375Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

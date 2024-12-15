@@ -1,0 +1,52 @@
+﻿@page "/"
+@using BookFrontend.Services
+@using BookFrontend.Models
+@inject BookService BookService
+
+<div class="container mt-5">
+    <div class="text-center mb-5"><h1 class="display-4 text-primary fw-bold">Book List</h1></div>
+
+    @if (books == null)
+    {
+        <div class="d-flex justify-content-center align-items-center mt-5">
+            <div class="spinner-border text-primary" role="status">
+                <span class="visually-hidden">Loading...</span>
+            </div>
+        </div>
+    }
+    else if (books.Count == 0)
+    {
+        <p class="text-danger">No books available.</p>
+    }
+    else
+    {
+        <div class="row row-cols-1 row-cols-md-2 row-cols-lg-3 g-4">
+            @foreach (var book in books)
+            {
+                <div class="col">
+                    <div class="card h-100">
+                        @if (!string.IsNullOrEmpty(book.imageURL))
+                        {
+                            <img src="@book.imageURL" class="card-img-top" alt="Cover of @book.Title">
+                        }
+                        <div class="card-body">
+                            <h5 class="card-title text-primary">@book.Title</h5>
+                            <p class="card-text"><strong>Author:</strong> @book.Author</p>
+                            <p class="card-text"><strong>Year of Release:</strong> @book.YearOfRelease</p>
+                            <p class="card-text"><strong>Description:</strong> @book.Description</p>
+                        </div>
+                    </div>
+                </div>
+            }
+        </div>
+    }
+</div>
+
+@code {
+    private List<Book> books;
+
+    protected override async Task OnInitializedAsync()
+    {
+        books = await BookService.GetBooksAsync();
+    }
+}

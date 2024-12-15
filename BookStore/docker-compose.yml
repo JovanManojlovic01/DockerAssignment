@@ -1,0 +1,26 @@
+version: "3.9"
+services:
+  api:
+    build:
+      # Set the correct path to the BookApi Dockerfile
+      context: ./BookApi
+      dockerfile: Dockerfile
+    container_name: bookapi
+    ports:
+      - "5000:5000"  # Ensures that API runs on the correct port
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Production
+      - ConnectionStrings__DefaultConnection=Server=192.168.1.167,1433;Database=BookStore;User Id=sa;Password=YourStrong!Password;TrustServerCertificate=True
+      - ASPNETCORE_URLS=http://0.0.0.0:5000
+
+  frontend:
+    build:
+      # Set the correct path to the BookFrontend Dockerfile
+      context: ./BookFrontend
+      dockerfile: Dockerfile
+    container_name: bookfrontend
+    ports:
+      - "8080:8080"  # Frontend accessible on this port
+    depends_on:
+      - api
+
